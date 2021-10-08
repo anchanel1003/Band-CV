@@ -61,14 +61,15 @@
     #header{
         overflow: hidden;
     }
-    
-    #header .mobile-menu-btn{
-        display: block;
+
+    #header .search-btn {
+        display: none;
     }
     
     #header .mobile-menu-btn{
         display: block;
     }
+    
 
 
     #nav {
